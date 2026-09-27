@@ -60,3 +60,4 @@ while True:
     i += 1
     # 追加 AI 回复
     messages.append({"role":"assistant","content":reply_content})
+print("a")
